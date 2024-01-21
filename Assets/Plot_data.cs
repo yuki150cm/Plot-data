@@ -78,7 +78,7 @@ public class Plot_data : MonoBehaviour
     {
         //ファイルパスを外部からの入力で入るようにする
      
-        string selectjson = File.ReadAllText("/Users/ohuchiyuki/UoA/4year/Plot_data_var2/Assets/Resources/JSON/Select_data.json");
+        string selectjson = File.ReadAllText("../Plot_data/Assets/Resources/JSON/Select_data.json");
         var select = JsonUtility.FromJson<Select_JSON_data>(selectjson);
         string loadjson = File.ReadAllText(select.path);
 
