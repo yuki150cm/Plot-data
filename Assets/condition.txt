@@ -1,0 +1,33 @@
+condition一覧
+
+        0_to_front 
+        1_from_front
+        2_to_up
+        3_from_top
+        4_to_back
+        5_from_back
+        6_to_down
+        7_from_down
+        8_train_noise
+        9_orbitTone_Gauss_Octave_Dsc
+
+        speech2
+        Tone_Gauss_Octave_Dsc
+        Tone_NoGauss_Aug4_Asc
+        Notch_Gauss_Aug4_Asc
+        Tone_NoGauss_Octave_Dsc
+        Notch_NoGauss_Aug4_Asc
+        Notch_NoGauss_Octave_Dsc
+        Notch_Gauss_Aug4_Dsc
+        Tone_Gauss_Aug4_Asc
+        Tone_Gauss_Octave_Asc
+        Notch_NoGauss_Octave_Asc
+        speech4
+        Tone_NoGauss_Aug4_Dsc
+        Tone_Gauss_Aug4_Dsc
+        Tone_NoGauss_Octave_Asc
+        speech3
+        Notch_NoGauss_Aug4_Dsc
+        Notch_Gauss_Octave_Dsc
+        Notch_Gauss_Octave_Asc
+        speech1
